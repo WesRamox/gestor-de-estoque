@@ -20,5 +20,5 @@ O React Stock é um sistema para controle e organização de estoque. feito para
 
 ## Screenshot
 
-![App Screenshot](https://snipboard.io/GQsIBM.jpg)
+![App Screenshot](https://snipboard.io/TRtsJ1.jpg)
 
